@@ -1,0 +1,4 @@
+C:/Users/User/Desktop/newfolder/build/CMakeFiles/zip.dir
+C:/Users/User/Desktop/newfolder/build/CMakeFiles/unzip.dir
+C:/Users/User/Desktop/newfolder/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/newfolder/build/CMakeFiles/rebuild_cache.dir
